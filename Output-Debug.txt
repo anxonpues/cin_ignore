@@ -1,0 +1,15 @@
+﻿'cin_ignore.exe' (Win32): Loaded 'C:\Users\User\source\repos\cin_ignore\x64\Release\cin_ignore.exe'. Symbols loaded.
+'cin_ignore.exe' (Win32): Loaded 'C:\Windows\System32\ntdll.dll'. 
+'cin_ignore.exe' (Win32): Loaded 'C:\Windows\System32\kernel32.dll'. 
+'cin_ignore.exe' (Win32): Loaded 'C:\Windows\System32\KernelBase.dll'. 
+'cin_ignore.exe' (Win32): Loaded 'C:\Windows\System32\ucrtbase.dll'. 
+'cin_ignore.exe' (Win32): Loaded 'C:\Windows\System32\msvcp140.dll'. 
+'cin_ignore.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140_1.dll'. 
+'cin_ignore.exe' (Win32): Loaded 'C:\Windows\System32\vcruntime140.dll'. 
+The thread 0x3294 has exited with code 0 (0x0).
+'cin_ignore.exe' (Win32): Loaded 'C:\Windows\System32\kernel.appcore.dll'. 
+'cin_ignore.exe' (Win32): Loaded 'C:\Windows\System32\msvcrt.dll'. 
+'cin_ignore.exe' (Win32): Loaded 'C:\Windows\System32\rpcrt4.dll'. 
+The thread 0x3aa0 has exited with code 0 (0x0).
+The thread 0x2db4 has exited with code 0 (0x0).
+The program '[15212] cin_ignore.exe' has exited with code 0 (0x0).
