@@ -1,6 +1,7 @@
 #include <iostream>
 //m#include <sstream>
 #include <limits>
+#include "craft.h"
 
 int main(int argvCounter, char* argvValues[])
 {
